@@ -1,0 +1,205 @@
+.red-box {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/spacecat.png);
+}
+
+p {
+	text-align: center;
+	clear: left;
+}
+
+.purple-box {
+	width: 200px;
+	height: 200px;
+	background-color: purple;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/spacedog.png);
+}
+
+.blue-box {
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/icon.png);
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+.green-box {
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/nebula3.png);
+	background-size: cover;
+}
+
+.coral-box {
+	width: 200px;
+	height: 200px;
+	background-color: #FF7F50;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/nebula1.png);
+	background-size:cover;
+}
+
+.container {
+	width: 50%;
+	margin:auto;
+}
+
+.red1-box {
+	width: 200px;
+	height: 200px;
+	background-color: red;
+	float: left;
+	margin: 20px;
+	background-image: url(../images/cattoy.jpg);
+	background-size: cover;
+}
+
+
+.card {
+	width: 200px;
+	height: 300px;
+	background-color: blue;
+	margin: auto;
+	border-radius: 20px;
+	border: 20px solid black;
+	float: left;
+}
+
+.wisdom-image {
+	width: 100%;
+	height: 100px;
+}
+
+.card2 {
+	width: 200px;
+	height: 300px;
+	background-color: red;
+	margin: auto, 20px;
+	border-radius: 20px;
+	border: 20px solid black;
+	font-size: 14px;
+	float: left;
+}
+
+.knight {
+	width: 100%;
+	height: 100px;
+}
+
+.card3 {	
+	width: 200px;
+	height: 300px;
+	background-color: yellow;
+	margin: auto;
+	border-radius: 20px;
+	border: 20px solid black;
+	float: left;
+}
+
+.sun {
+	width: 100%;
+	height: 100px;
+}	
+
+
+.card4 {
+	width: 200px;
+	height: 300px;
+	background-color: green;
+	margin: auto;
+	border-radius: 20px;
+	border: 20px solid black;
+	float: left;
+}
+
+.forest {
+	width: 100%;
+	height: 100px;
+}
+
+.card5 {
+	width: 200px;
+	height: 300px;
+	background-color: gray;
+	margin: auto;
+	border-radius: 20px;
+	border: 20px solid black;
+	float: left;
+}
+
+.wolves {
+	width: 100%;
+	height: 100px;
+}
+.card6 {
+	width: 200px;
+	height: 300px;
+	background-color: #DC143C;
+	margin: auto;
+	border-radius: 20px;
+	border: 20px solid black;
+	float: left;
+}
+
+.dragon {
+	width: 100%;
+	height: 100px;	
+}
+
+.card7 {
+	width: 200px;
+	height: 300px;
+	background-color: #F0E68C;
+	margin: auto;
+	border-radius: 20px;
+	border: 20px solid black;
+	float: left;
+}
+
+.phoenix {
+	width: 100%;
+	height: 100px;
+}
+
+.card8 {
+	width: 200px;
+	height: 300px;
+	background-color: #FFE4C4;
+	margin: auto;
+	border-radius: 20px;
+	border: 20px solid black;
+	float: left;
+}
+
+.moon {
+	width: 100%;
+	height: 100px;
+}
+
+.card9 {
+	width: 200px;
+	height: 300px;
+	background-color: #8B008B;
+	margin: auto;
+	border-radius: 20px;
+	border: 20px solid black;
+	float: left;
+}
+
+.berries {
+	width: 100%;
+	height: 100px;
+}
